@@ -1,0 +1,6 @@
+D:\ADO\AssignmentADO\bin\Debug\AssignmentADO.exe.config
+D:\ADO\AssignmentADO\bin\Debug\AssignmentADO.exe
+D:\ADO\AssignmentADO\bin\Debug\AssignmentADO.pdb
+D:\ADO\AssignmentADO\obj\Debug\AssignmentADO.csprojAssemblyReference.cache
+D:\ADO\AssignmentADO\obj\Debug\AssignmentADO.exe
+D:\ADO\AssignmentADO\obj\Debug\AssignmentADO.pdb
